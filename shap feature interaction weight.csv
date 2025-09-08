@@ -1,0 +1,21 @@
+src,dst,weight
+Method Originality,Question Novelty,0.01904
+Method Maturity,Question Novelty,0.01439
+Method Originality,Question Prevalence,0.01297
+Method Popularity,Method Originality,0.01216
+Method Maturity,Method Originality,0.01176
+Method Maturity,Method Popularity,0.00735
+Method Application Variety,Method Originality,0.00634
+Method Application Variety,Method Popularity,0.00588
+Method Application Variety,Method Maturity,0.00449
+Question Novelty,Question Prevalence,0.00282
+Method Popularity,Question Novelty,0.00269
+Method Originality,Question Diversity,0.00219
+Method Application Variety,Question Novelty,0.0021
+Method Application Variety,Question Diversity,0.00179
+Method Maturity,Question Prevalence,0.00127
+Method Popularity,Question Prevalence,0.00123
+Method Popularity,Question Diversity,0.00116
+Method Application Variety,Question Prevalence,0.00108
+Method Maturity,Question Diversity,0.00108
+Question Diversity,Question Novelty,0.00074
